@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TaniaTerzi.github.io/project-TECHNO12",
+  "homepage": "https://GoitStudentsWorks.github.io/js_76_TaniaTerzi",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-TECHNO12/"
+    "build": "parcel build src/*.html --public-url /js_76_TaniaTerzi/"
   },
   "repository": {
     "type": "git",
